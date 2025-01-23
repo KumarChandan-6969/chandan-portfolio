@@ -10,7 +10,7 @@ var typing = new Typed('.text', {
 const download_cv=document.getElementById("cv")
 // console.log(download_cv);
 download_cv.addEventListener("click", ()=> {
-    let resumeurl='https://drive.google.com/file/d/1_kwrzLOEBYATWURDEwNfmmFFIwqvxyKA/view?usp=sharing'
+    let resumeurl='https://drive.google.com/file/d/1Ey7vKsy3a1BbIwIgCa2Sa_nWoL2lC7Yl/view?usp=drive_link'
     let resumeName='ChandanResume.pdf'
 
     let anchor =document.createElement('a')
